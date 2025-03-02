@@ -37,7 +37,7 @@ eBayTest/
 1. **Clone the repository** or extract the project folder onto your computer.
 2. Open your terminal and navigate to the project folder:
    ```bash
-   cd Achmad Thoriq Baidowi - eBayTest
+   cd wdio-web
 3. Install dependencies
    ````bash
    npm install
