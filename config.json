@@ -1,8 +1,0 @@
-{
-  "baseUrl": "https://www.ebay.com",
-  "waitforTimeout": 10000,
-  "connectionRetryTimeout": 120000,
-  "headless": true,
-  "windowSize": "1280,800",
-  "logLevel": "info"
-}
